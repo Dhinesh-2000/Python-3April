@@ -1,0 +1,16 @@
+
+URL :https://dummyjson.com/products
+URL :https://jsonplaceholder.typicode.com/users
+Metod:GET
+Access Type:Public
+
+1)How to test rest api?
+Browser/Post Man tools
+2)How to invoke REst API in Python? - request modules
+2)How to invoke REst API in JS?     - fetch() method
+3)Find the data type
+4)how to connect mongodb?
+
+How to find installed/available module in python?
+
+pip3 install pymongo
